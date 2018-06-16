@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import Feed from 'rss-to-json';
 import { ListGroup, ListGroupItem, ButtonGroup, Button } from 'react-bootstrap';
 
